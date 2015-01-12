@@ -1,0 +1,9 @@
+Package: com.rohan32.textchanger
+Name: TextChanger
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Tweak which allows you to change all text strings on your device
+Maintainer: Rohan Mathur
+Author: Rohan Mathur
+Section: Tweaks

@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = TextChanger;
+	cell = PSLinkCell;
+	detail = TextChangerListController;
+	icon = TextChanger.png;
+	isController = 1;
+	label = TextChanger;
+    };
+}
