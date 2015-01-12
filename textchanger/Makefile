@@ -1,5 +1,4 @@
-ARCHS = armv7s
-include theos/makefiles/common.mk
+include $(THEOS)/makefiles/common.mk
 
 BUNDLE_NAME = TextChanger
 TextChanger_FILES = TextChanger.mm
