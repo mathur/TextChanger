@@ -2,10 +2,10 @@ ARCHS = armv7s
 include theos/makefiles/common.mk
 
 BUNDLE_NAME = TextChanger
-UnlockChanger_FILES = TextChanger.mm
-UnlockChanger_INSTALL_PATH = /Library/PreferenceBundles
-UnlockChanger_FRAMEWORKS = UIKit
-UnlockChanger_PRIVATE_FRAMEWORKS = Preferences
+TextChanger_FILES = TextChanger.mm
+TextChanger_INSTALL_PATH = /Library/PreferenceBundles
+TextChanger_FRAMEWORKS = UIKit
+TextChanger_PRIVATE_FRAMEWORKS = Preferences
 
 include $(THEOS_MAKE_PATH)/bundle.mk
 
