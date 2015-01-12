@@ -3,7 +3,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = TextChanger
 TextChanger_FILES = Tweak.xm
-Text_FRAMEWORKS = UIKit
+TextChanger_FRAMEWORKS = UIKit
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 
